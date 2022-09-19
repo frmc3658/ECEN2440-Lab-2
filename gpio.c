@@ -2,7 +2,7 @@
  * gpio.c
  *
  *  Created on: 9/13/2022
- *  Author: Shane M, Frank M, Johnathan T, Ali K
+ *  Author: Shane McCammon, Frank M, Johnathan T, Ali K
  *  Class: ECEN 2440
  *  Version 3.0
  */
